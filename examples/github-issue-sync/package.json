@@ -1,6 +1,7 @@
 {
   "name": "github-issue-sync",
   "version": "1.0.0",
+  "type": "module",
   "description": "**TODO**",
   "main": "index.js",
   "scripts": {
